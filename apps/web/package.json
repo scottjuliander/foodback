@@ -41,7 +41,7 @@
     "@lexical/link": "0.31.0",
     "@lexical/list": "0.31.0",
     "@lexical/markdown": "0.31.0",
-    "@lexical/react": "0.31.0",
+    "@lexical/react": "0.31.1",
     "@lexical/rich-text": "0.31.0",
     "@lexical/table": "0.31.0",
     "@opentelemetry/exporter-prometheus": "0.200.0",
