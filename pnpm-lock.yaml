@@ -163,8 +163,8 @@ importers:
         specifier: 4.4.0
         version: 4.4.0(keyv@5.3.3)
       '@lexical/code':
-        specifier: 0.31.0
-        version: 0.31.0
+        specifier: 0.31.2
+        version: 0.31.2
       '@lexical/link':
         specifier: 0.31.0
         version: 0.31.0
@@ -1856,8 +1856,14 @@ packages:
   '@lexical/clipboard@0.31.0':
     resolution: {integrity: sha512-oOZgDnzD68uZMy99H1dx6Le/uJNxmvXgbHb2Qp6Zrej7OUnCV/X9kzVSgLqWKytgrjsyUjTLjRhkQgwLhu61sA==}
 
+  '@lexical/clipboard@0.31.2':
+    resolution: {integrity: sha512-cedna5jXfNzbmGl0nLOiLoQoE42i3NfCU6wtugO/auWTLbv1/gD9g0egLg2lAUod+BApaCgdTU4tV2bqww2GWQ==}
+
   '@lexical/code@0.31.0':
     resolution: {integrity: sha512-a2Uvy7RT/oNVzspnHhZCGtb0f0jVaxMtg3OVyTgRTAQCxrYXT6eN1oBCWaPXKRFi9YDsOusb1cvnfnsBbqO0nw==}
+
+  '@lexical/code@0.31.2':
+    resolution: {integrity: sha512-pix3n43zJzzkOgiUV0aTkWL4syItiHrP7YkdenkXgauVMAqZq3IvmK1hSQYKeDsVw/3N8mU26oRp0g5kPDV1rA==}
 
   '@lexical/devtools-core@0.31.0':
     resolution: {integrity: sha512-Or0A8xtOPhlFchkqLf4SrAjQzsYhIh/004MgEy7InQrmT9GxG6S0YE9RsHHT+aJCel1wNOlNSJVlwfdyBjXCZg==}
@@ -1877,11 +1883,17 @@ packages:
   '@lexical/html@0.31.0':
     resolution: {integrity: sha512-iOY1Y2GhAmpP5kl1tMGqpV0CeNtpyjr8TJCvWDjUAXEb1tNFC5y6AoV7AyFnHzcy78JfzIHZAPgb72mpzFZFPA==}
 
+  '@lexical/html@0.31.2':
+    resolution: {integrity: sha512-92Oi9daBDNCaionS9ENnXkC+jzzz5WdFTHxTkPqcGaJZE/jF0rAe6LQo6356O/yr9dYK/KIsE8V79AJHqQKJhg==}
+
   '@lexical/link@0.31.0':
     resolution: {integrity: sha512-hSAG1k5Nj/FxxhtVFsKSAIFs6lk1JWKJhIyHBXEVrCi6l2vqNbpfoRSXp5aa7U4lX3hXtZF08lxW2hzh16lZCw==}
 
   '@lexical/list@0.31.0':
     resolution: {integrity: sha512-2OFnAWmvnFYixFynw+cTwZzoAGwgQogCvy2grVxlwxGnoLsFdiNDqD9+OM9WloorYWnJJE/U3ljKY/96AHTAag==}
+
+  '@lexical/list@0.31.2':
+    resolution: {integrity: sha512-NbdpxSttk/MmYCSovsxiQwS2h3h2U/Kg3WwNfW9vgpvdZE+qmg6jqpzUFVe51/i+GF2WU0uRPG0J5StMGhtYlg==}
 
   '@lexical/mark@0.31.0':
     resolution: {integrity: sha512-Zb6P4yDP5o04FUTD38fls5no+szujrkwxCjKVuAP5eweFoHzH52kSrI4SpBTOBJXcxdH5XHXdFTFthgX+L3uuQ==}
@@ -1910,14 +1922,23 @@ packages:
   '@lexical/selection@0.31.0':
     resolution: {integrity: sha512-NgYqGi3wwk2ti2I7C3eiXpaOFHnVd/JB3NRh8vLlQe+v+sO5dYfqBC2nAo9bN9K6McrMrOGOD62teoH3+KfnzQ==}
 
+  '@lexical/selection@0.31.2':
+    resolution: {integrity: sha512-8hwNgAVWob09y8/Z2QKknw0z6vFcfjsQfHkyDwXwXUeTcJFjlAokrXrc65PRuufI4TaFDQHnXQpP5GcOYROE6Q==}
+
   '@lexical/table@0.31.0':
     resolution: {integrity: sha512-QLwC3uQlRQpEI+iDNvljtXizMCBiU8PKMhoScq8UXjHlVwgACp7p814v3oCnu+RyxLEmFRXUZ+0CRRIc3gfQ1w==}
+
+  '@lexical/table@0.31.2':
+    resolution: {integrity: sha512-S4W6DdkDCYP32qL6QD4jyksEatyfapRBc4sqoRove83fQEWnFhJ1iBheiG3hSm3YDbDmLclZxcE2CuSIZ6bd0Q==}
 
   '@lexical/text@0.31.0':
     resolution: {integrity: sha512-PHAhJqA1mZkvLCdjz/Aht+icFVXJHZtAzFT8HE+sA/RTTZQyoRdPYoRY7TF4cejodwct95umHFmBpm4urJ+uTQ==}
 
   '@lexical/utils@0.31.0':
     resolution: {integrity: sha512-ry+2IGsPx1uwWeXXZk5U7IiSgYBuOGM4ipLXlJnwOdX39/7Uribfc4yMH+dT0baV0VRzyM3nc+SzXpu34asWNA==}
+
+  '@lexical/utils@0.31.2':
+    resolution: {integrity: sha512-vtPzZuJt134cz+oiHAPSIHT3hGt/9Gtug/Cf8OftqJeg3/7P6dKiTdAvAql3q4QxHlCAup4Ed87Ec8PYsICGGg==}
 
   '@lexical/yjs@0.31.0':
     resolution: {integrity: sha512-XU4abAjqpcYxIHWzWoPmW/+VvHu6y8BDOrTm8j2b2FNAWamvLChmsr2c03rVYZsLx/aPtZZrn9G1/jngPhCuLQ==}
@@ -5520,6 +5541,15 @@ packages:
       supports-color:
         optional: true
 
+  debug@4.4.1:
+    resolution: {integrity: sha512-KcKCqiftBJcZr++7ykoDIEwSa3XWowTfNPo92BYxjXiyYEVrUQh2aLyhxBCwww+heortUFxEJYcRzosstTEBYQ==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+
   decamelize@1.2.0:
     resolution: {integrity: sha512-z2S+W9X73hAUUki+N+9Za2lBlun89zigOyGrsax+KUQ6wKW4ZoWpEYBkGhQjwAjjDCkWxhY0VKEhk8wzY7F5cA==}
     engines: {node: '>=0.10.0'}
@@ -5601,6 +5631,10 @@ packages:
 
   detect-libc@2.0.3:
     resolution: {integrity: sha512-bwy0MGW55bG41VqxxypOsdSdGqLwXPI/focwgTYCFMbdUiBAxLg9CFzG08sz2aqzknwiX7Hkl0bQENjg8iLByw==}
+    engines: {node: '>=8'}
+
+  detect-libc@2.0.4:
+    resolution: {integrity: sha512-3UDv+G9CsCKO1WKMGw9fwq/SWJYbI0c5Y7LU1AXYoDdbhE2AHQ6N6Nb34sG8Fj7T5APy8qXDCKuuIHd1BR0tVA==}
     engines: {node: '>=8'}
 
   detect-newline@4.0.1:
@@ -7013,8 +7047,11 @@ packages:
   lexical@0.31.0:
     resolution: {integrity: sha512-g53KxlntpwBLYWE94pn66YmYq2VLsgs/nYfbtsnbEAur0CA8XXsipIM+yrSKN9YnUp43EiYe2Z12OennaMQ0Yg==}
 
-  lib0@0.2.104:
-    resolution: {integrity: sha512-1tqKRANSPTcjs/yjPoKh52oRM2u5AYdd8jie8sDiN8/5kpWWiQSHUGgtB4VEXLw1chVL3QPSPp8q9RWqzSn2FA==}
+  lexical@0.31.2:
+    resolution: {integrity: sha512-1GRqzl/QAdtzqOoYXVfMFOkyiSQKIIPcazsgIs+WvsLL8UIcwP16WWeKUtamJgyvS84GN/tuMJsd1Iv+Qzw9WA==}
+
+  lib0@0.2.108:
+    resolution: {integrity: sha512-+3eK/B0SqYoZiQu9fNk4VEc6EX8cb0Li96tPGKgugzoGj/OdRdREtuTLvUW+mtinoB2mFiJjSqOJBIaMkAGhxQ==}
     engines: {node: '>=16'}
     hasBin: true
 
@@ -9821,6 +9858,18 @@ packages:
       utf-8-validate:
         optional: true
 
+  ws@8.18.2:
+    resolution: {integrity: sha512-DMricUmwGZUVr++AEAe2uiVM7UoO9MAVZMDu05UQOaUII0lp+zOzLLU4Xqh/JvTqklB1T4uELaaPBKyjE1r4fQ==}
+    engines: {node: '>=10.0.0'}
+    peerDependencies:
+      bufferutil: ^4.0.1
+      utf-8-validate: '>=5.0.2'
+    peerDependenciesMeta:
+      bufferutil:
+        optional: true
+      utf-8-validate:
+        optional: true
+
   xlsx@0.18.5:
     resolution: {integrity: sha512-dmg3LCjBPHZnQp5/F/+nnTa+miPJxUXB6vtk42YjBBKayDNagxGEeIdWApkYPOf3Z3pm3k62Knjzp7lMeTEtFQ==}
     engines: {node: '>=0.8'}
@@ -11555,10 +11604,10 @@ snapshots:
       '@types/ws': 8.18.1
       duplexify: 3.7.1
       inherits: 2.0.4
-      isomorphic-ws: 4.0.1(ws@8.18.1)
+      isomorphic-ws: 4.0.1(ws@8.18.2)
       readable-stream: 2.3.8
       safe-buffer: 5.2.1
-      ws: 8.18.1
+      ws: 8.18.2
       xtend: 4.0.2
     transitivePeerDependencies:
       - bufferutil
@@ -11737,10 +11786,24 @@ snapshots:
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
 
+  '@lexical/clipboard@0.31.2':
+    dependencies:
+      '@lexical/html': 0.31.2
+      '@lexical/list': 0.31.2
+      '@lexical/selection': 0.31.2
+      '@lexical/utils': 0.31.2
+      lexical: 0.31.2
+
   '@lexical/code@0.31.0':
     dependencies:
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
+      prismjs: 1.30.0
+
+  '@lexical/code@0.31.2':
+    dependencies:
+      '@lexical/utils': 0.31.2
+      lexical: 0.31.2
       prismjs: 1.30.0
 
   '@lexical/devtools-core@0.31.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
@@ -11774,6 +11837,12 @@ snapshots:
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
 
+  '@lexical/html@0.31.2':
+    dependencies:
+      '@lexical/selection': 0.31.2
+      '@lexical/utils': 0.31.2
+      lexical: 0.31.2
+
   '@lexical/link@0.31.0':
     dependencies:
       '@lexical/utils': 0.31.0
@@ -11784,6 +11853,12 @@ snapshots:
       '@lexical/selection': 0.31.0
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
+
+  '@lexical/list@0.31.2':
+    dependencies:
+      '@lexical/selection': 0.31.2
+      '@lexical/utils': 0.31.2
+      lexical: 0.31.2
 
   '@lexical/mark@0.31.0':
     dependencies:
@@ -11850,11 +11925,21 @@ snapshots:
     dependencies:
       lexical: 0.31.0
 
+  '@lexical/selection@0.31.2':
+    dependencies:
+      lexical: 0.31.2
+
   '@lexical/table@0.31.0':
     dependencies:
       '@lexical/clipboard': 0.31.0
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
+
+  '@lexical/table@0.31.2':
+    dependencies:
+      '@lexical/clipboard': 0.31.2
+      '@lexical/utils': 0.31.2
+      lexical: 0.31.2
 
   '@lexical/text@0.31.0':
     dependencies:
@@ -11866,6 +11951,13 @@ snapshots:
       '@lexical/selection': 0.31.0
       '@lexical/table': 0.31.0
       lexical: 0.31.0
+
+  '@lexical/utils@0.31.2':
+    dependencies:
+      '@lexical/list': 0.31.2
+      '@lexical/selection': 0.31.2
+      '@lexical/table': 0.31.2
+      lexical: 0.31.2
 
   '@lexical/yjs@0.31.0(yjs@13.6.26)':
     dependencies:
@@ -15966,6 +16058,11 @@ snapshots:
     dependencies:
       ms: 2.1.3
 
+  debug@4.4.1:
+    dependencies:
+      ms: 2.1.3
+    optional: true
+
   decamelize@1.2.0: {}
 
   decimal.js@10.5.0: {}
@@ -16042,6 +16139,9 @@ snapshots:
   detect-indent@7.0.1: {}
 
   detect-libc@2.0.3: {}
+
+  detect-libc@2.0.4:
+    optional: true
 
   detect-newline@4.0.1: {}
 
@@ -17508,9 +17608,9 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  isomorphic-ws@4.0.1(ws@8.18.1):
+  isomorphic-ws@4.0.1(ws@8.18.2):
     dependencies:
-      ws: 8.18.1
+      ws: 8.18.2
     optional: true
 
   isomorphic.js@0.2.5: {}
@@ -17735,7 +17835,9 @@ snapshots:
 
   lexical@0.31.0: {}
 
-  lib0@0.2.104:
+  lexical@0.31.2: {}
+
+  lib0@0.2.108:
     dependencies:
       isomorphic.js: 0.2.5
 
@@ -17773,7 +17875,7 @@ snapshots:
 
   lightningcss@1.29.2:
     dependencies:
-      detect-libc: 2.0.3
+      detect-libc: 2.0.4
     optionalDependencies:
       lightningcss-darwin-arm64: 1.29.2
       lightningcss-darwin-x64: 1.29.2
@@ -18151,7 +18253,7 @@ snapshots:
   mqtt-packet@6.10.0:
     dependencies:
       bl: 4.1.0
-      debug: 4.4.0
+      debug: 4.4.1
       process-nextick-args: 2.0.1
     transitivePeerDependencies:
       - supports-color
@@ -18161,7 +18263,7 @@ snapshots:
     dependencies:
       commist: 1.1.0
       concat-stream: 2.0.0
-      debug: 4.4.0
+      debug: 4.4.1
       duplexify: 4.1.3
       help-me: 3.0.0
       inherits: 2.0.4
@@ -18391,7 +18493,7 @@ snapshots:
 
   number-allocator@1.0.14:
     dependencies:
-      debug: 4.4.0
+      debug: 4.4.1
       js-sdsl: 4.3.0
     transitivePeerDependencies:
       - supports-color
@@ -20722,6 +20824,9 @@ snapshots:
 
   ws@8.18.1: {}
 
+  ws@8.18.2:
+    optional: true
+
   xlsx@0.18.5:
     dependencies:
       adler-32: 1.3.1
@@ -20811,7 +20916,7 @@ snapshots:
 
   yjs@13.6.26:
     dependencies:
-      lib0: 0.2.104
+      lib0: 0.2.108
 
   yn@3.1.1: {}
 
