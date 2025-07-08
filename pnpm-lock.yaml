@@ -163,8 +163,8 @@ importers:
         specifier: 4.4.0
         version: 4.4.0(keyv@5.3.3)
       '@lexical/code':
-        specifier: 0.31.0
-        version: 0.31.0
+        specifier: 0.33.0
+        version: 0.33.0
       '@lexical/link':
         specifier: 0.31.0
         version: 0.31.0
@@ -1856,8 +1856,14 @@ packages:
   '@lexical/clipboard@0.31.0':
     resolution: {integrity: sha512-oOZgDnzD68uZMy99H1dx6Le/uJNxmvXgbHb2Qp6Zrej7OUnCV/X9kzVSgLqWKytgrjsyUjTLjRhkQgwLhu61sA==}
 
+  '@lexical/clipboard@0.33.0':
+    resolution: {integrity: sha512-nM3HE8ekF+dhFoXvOS5G8KZDi1BJARh+dMFZlLe7MX44rEkxcMMdgtY2qr8j9cUL8d4k1BVql9nEIfF/kLp7Gw==}
+
   '@lexical/code@0.31.0':
     resolution: {integrity: sha512-a2Uvy7RT/oNVzspnHhZCGtb0f0jVaxMtg3OVyTgRTAQCxrYXT6eN1oBCWaPXKRFi9YDsOusb1cvnfnsBbqO0nw==}
+
+  '@lexical/code@0.33.0':
+    resolution: {integrity: sha512-lJDrPtOpZ2J4XoU/WwjABSutbiEN8FWq/nDSQp8eD7vOlTLS5ZlT3nJNojxwVAwcxZ4evg3OU32WrVq46CNUyQ==}
 
   '@lexical/devtools-core@0.31.0':
     resolution: {integrity: sha512-Or0A8xtOPhlFchkqLf4SrAjQzsYhIh/004MgEy7InQrmT9GxG6S0YE9RsHHT+aJCel1wNOlNSJVlwfdyBjXCZg==}
@@ -1877,11 +1883,17 @@ packages:
   '@lexical/html@0.31.0':
     resolution: {integrity: sha512-iOY1Y2GhAmpP5kl1tMGqpV0CeNtpyjr8TJCvWDjUAXEb1tNFC5y6AoV7AyFnHzcy78JfzIHZAPgb72mpzFZFPA==}
 
+  '@lexical/html@0.33.0':
+    resolution: {integrity: sha512-m5xWpxPKNOnlPLSEDHdxHUXJy/WqnQSkHsDD+xQqXN9HwqZY1CaAgnJCWWBwiCNgr1FKZmJOuZd2eS5q1wRtgQ==}
+
   '@lexical/link@0.31.0':
     resolution: {integrity: sha512-hSAG1k5Nj/FxxhtVFsKSAIFs6lk1JWKJhIyHBXEVrCi6l2vqNbpfoRSXp5aa7U4lX3hXtZF08lxW2hzh16lZCw==}
 
   '@lexical/list@0.31.0':
     resolution: {integrity: sha512-2OFnAWmvnFYixFynw+cTwZzoAGwgQogCvy2grVxlwxGnoLsFdiNDqD9+OM9WloorYWnJJE/U3ljKY/96AHTAag==}
+
+  '@lexical/list@0.33.0':
+    resolution: {integrity: sha512-NB29jUhteIE7kGT8Nbb7IQYCa6zpYj10j/WbvlKQMG7k6aOcTCFOV2/r3q+TnuvhAshQj88g1wqMSvQt8DfsfA==}
 
   '@lexical/mark@0.31.0':
     resolution: {integrity: sha512-Zb6P4yDP5o04FUTD38fls5no+szujrkwxCjKVuAP5eweFoHzH52kSrI4SpBTOBJXcxdH5XHXdFTFthgX+L3uuQ==}
@@ -1910,14 +1922,23 @@ packages:
   '@lexical/selection@0.31.0':
     resolution: {integrity: sha512-NgYqGi3wwk2ti2I7C3eiXpaOFHnVd/JB3NRh8vLlQe+v+sO5dYfqBC2nAo9bN9K6McrMrOGOD62teoH3+KfnzQ==}
 
+  '@lexical/selection@0.33.0':
+    resolution: {integrity: sha512-DffmfgnCrnf8OmoFG0d5g3jBn6AYNVA3Aoiyamri+aCX6wjL94D81LMNdnFFLICuHVb8AAmR/v7DA82aHRT8WA==}
+
   '@lexical/table@0.31.0':
     resolution: {integrity: sha512-QLwC3uQlRQpEI+iDNvljtXizMCBiU8PKMhoScq8UXjHlVwgACp7p814v3oCnu+RyxLEmFRXUZ+0CRRIc3gfQ1w==}
+
+  '@lexical/table@0.33.0':
+    resolution: {integrity: sha512-+tZ+nUvhMesIFgy2um7rISWg6l7hsAhShaIhj7ibN0ZfZlAdfy0ZRVmY05BwSBuwG1s9o3oX6CRp25HrNLgZhQ==}
 
   '@lexical/text@0.31.0':
     resolution: {integrity: sha512-PHAhJqA1mZkvLCdjz/Aht+icFVXJHZtAzFT8HE+sA/RTTZQyoRdPYoRY7TF4cejodwct95umHFmBpm4urJ+uTQ==}
 
   '@lexical/utils@0.31.0':
     resolution: {integrity: sha512-ry+2IGsPx1uwWeXXZk5U7IiSgYBuOGM4ipLXlJnwOdX39/7Uribfc4yMH+dT0baV0VRzyM3nc+SzXpu34asWNA==}
+
+  '@lexical/utils@0.33.0':
+    resolution: {integrity: sha512-vqjRMjokCEK/UXNIITMaFb00Q15bxr65hvAZfaHPCVHV7CDZxOjwi2hqA/HuTZAknIlFuWzfucPla6pBY/cldw==}
 
   '@lexical/yjs@0.31.0':
     resolution: {integrity: sha512-XU4abAjqpcYxIHWzWoPmW/+VvHu6y8BDOrTm8j2b2FNAWamvLChmsr2c03rVYZsLx/aPtZZrn9G1/jngPhCuLQ==}
@@ -4981,6 +5002,9 @@ packages:
     resolution: {integrity: sha512-Xm7bpRXnDSX2YE2YFfBk2FnF0ep6tmG7xPh8iHee8MIcrgq762Nkce856dYtJYLkuIoYZvGfTs/PbZhideTcEg==}
     engines: {node: '>=4'}
 
+  axios@1.10.0:
+    resolution: {integrity: sha512-/1xYAC4MP/HEG+3duIhFr4ZQXR4sQXOIe+o6sdqzeykGLx6Upp/1p8MHqhINOvGeP7xyNHe7tsiJByc4SSVUxw==}
+
   axios@1.9.0:
     resolution: {integrity: sha512-re4CqKTJaURpzbLHtIi6XpDv20/CnpXOtjRY5/CU32L8gU8ek9UIivcfvSWvmKEngmVbrUtPpdDwWDWL7DNHvg==}
 
@@ -5520,6 +5544,15 @@ packages:
       supports-color:
         optional: true
 
+  debug@4.4.1:
+    resolution: {integrity: sha512-KcKCqiftBJcZr++7ykoDIEwSa3XWowTfNPo92BYxjXiyYEVrUQh2aLyhxBCwww+heortUFxEJYcRzosstTEBYQ==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+
   decamelize@1.2.0:
     resolution: {integrity: sha512-z2S+W9X73hAUUki+N+9Za2lBlun89zigOyGrsax+KUQ6wKW4ZoWpEYBkGhQjwAjjDCkWxhY0VKEhk8wzY7F5cA==}
     engines: {node: '>=0.10.0'}
@@ -5601,6 +5634,10 @@ packages:
 
   detect-libc@2.0.3:
     resolution: {integrity: sha512-bwy0MGW55bG41VqxxypOsdSdGqLwXPI/focwgTYCFMbdUiBAxLg9CFzG08sz2aqzknwiX7Hkl0bQENjg8iLByw==}
+    engines: {node: '>=8'}
+
+  detect-libc@2.0.4:
+    resolution: {integrity: sha512-3UDv+G9CsCKO1WKMGw9fwq/SWJYbI0c5Y7LU1AXYoDdbhE2AHQ6N6Nb34sG8Fj7T5APy8qXDCKuuIHd1BR0tVA==}
     engines: {node: '>=8'}
 
   detect-newline@4.0.1:
@@ -5714,6 +5751,9 @@ packages:
 
   end-of-stream@1.4.4:
     resolution: {integrity: sha512-+uw1inIHVPQoaVuHzRyXd21icM+cnt4CzD5rW+NC1wjOUSTOs+Te7FOv7AhN7vS9x/oIyhLP5PR1H+phQAHu5Q==}
+
+  end-of-stream@1.4.5:
+    resolution: {integrity: sha512-ooEGc6HP26xXq/N+GCGOT0JKCLDGrq2bQUZrQ7gyrJiZANJ/8YDTxTpQBXGMn+WbIQXNVpyWymm7KYVICQnyOg==}
 
   enhanced-resolve@5.18.1:
     resolution: {integrity: sha512-ZSW3ma5GkcQBIpwZTSRAI8N71Uuwgs93IezB7mf7R60tC8ZbJideoDNKjHn2O9KIlx6rkGTTEk1xUCK2E1Y2Yg==}
@@ -6204,6 +6244,10 @@ packages:
 
   form-data@4.0.2:
     resolution: {integrity: sha512-hGfm/slu0ZabnNt4oaRZ6uREyfCj6P4fT/n6A1rGV+Z0VdGXjfOhVUpkn6qVQONHGIFwmveGXyDs75+nr6FM8w==}
+    engines: {node: '>= 6'}
+
+  form-data@4.0.3:
+    resolution: {integrity: sha512-qsITQPfmvMOSAdeyZ+12I1c+CKSstAFAwu+97zrnWAbIr5u8wfsExUzCesVLC8NgHuRUqNN4Zy6UPWUTRGslcA==}
     engines: {node: '>= 6'}
 
   formdata-polyfill@4.0.10:
@@ -7013,8 +7057,11 @@ packages:
   lexical@0.31.0:
     resolution: {integrity: sha512-g53KxlntpwBLYWE94pn66YmYq2VLsgs/nYfbtsnbEAur0CA8XXsipIM+yrSKN9YnUp43EiYe2Z12OennaMQ0Yg==}
 
-  lib0@0.2.104:
-    resolution: {integrity: sha512-1tqKRANSPTcjs/yjPoKh52oRM2u5AYdd8jie8sDiN8/5kpWWiQSHUGgtB4VEXLw1chVL3QPSPp8q9RWqzSn2FA==}
+  lexical@0.33.0:
+    resolution: {integrity: sha512-kH8EvPi0Ptgu+PGKeZKfZKXMpImkdVHXKoVFcseb0R/4Jkc/DzmR2VN1Z8n9UHQqxdgC9e0tSrN8iKWHZOtDKw==}
+
+  lib0@0.2.109:
+    resolution: {integrity: sha512-jP0gbnyW0kwlx1Atc4dcHkBbrVAkdHjuyHxtClUPYla7qCmwIif1qZ6vQeJdR5FrOVdn26HvQT0ko01rgW7/Xw==}
     engines: {node: '>=16'}
     hasBin: true
 
@@ -8246,6 +8293,9 @@ packages:
 
   pump@3.0.2:
     resolution: {integrity: sha512-tUPXtzlGM8FE3P0ZL6DVs/3P58k9nk8/jZeQCurTJylQA8qFYzHFfhBJkuqyE0FifOsQ0uKWekiZ5g8wtr28cw==}
+
+  pump@3.0.3:
+    resolution: {integrity: sha512-todwxLMY7/heScKmntwQG8CXVkWUOdYxIvY2s0VWAAMh/nd8SoYiRaKjlr7+iCs984f2P8zvrfWcDDYVb73NfA==}
 
   punycode.js@2.3.1:
     resolution: {integrity: sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==}
@@ -9811,6 +9861,18 @@ packages:
 
   ws@8.18.1:
     resolution: {integrity: sha512-RKW2aJZMXeMxVpnZ6bck+RswznaxmzdULiBr6KY7XkTnW8uvt0iT9H5DkHUChXrc+uurzwa0rVI16n/Xzjdz1w==}
+    engines: {node: '>=10.0.0'}
+    peerDependencies:
+      bufferutil: ^4.0.1
+      utf-8-validate: '>=5.0.2'
+    peerDependenciesMeta:
+      bufferutil:
+        optional: true
+      utf-8-validate:
+        optional: true
+
+  ws@8.18.3:
+    resolution: {integrity: sha512-PEIGCY5tSlUt50cqyMXfCzX+oOPqN0vuGqWzbcJ2xvnkzkq46oOpz7dQaTDBdfICb4N14+GARUDw2XV2N4tvzg==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
@@ -11555,10 +11617,10 @@ snapshots:
       '@types/ws': 8.18.1
       duplexify: 3.7.1
       inherits: 2.0.4
-      isomorphic-ws: 4.0.1(ws@8.18.1)
+      isomorphic-ws: 4.0.1(ws@8.18.3)
       readable-stream: 2.3.8
       safe-buffer: 5.2.1
-      ws: 8.18.1
+      ws: 8.18.3
       xtend: 4.0.2
     transitivePeerDependencies:
       - bufferutil
@@ -11737,10 +11799,24 @@ snapshots:
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
 
+  '@lexical/clipboard@0.33.0':
+    dependencies:
+      '@lexical/html': 0.33.0
+      '@lexical/list': 0.33.0
+      '@lexical/selection': 0.33.0
+      '@lexical/utils': 0.33.0
+      lexical: 0.33.0
+
   '@lexical/code@0.31.0':
     dependencies:
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
+      prismjs: 1.30.0
+
+  '@lexical/code@0.33.0':
+    dependencies:
+      '@lexical/utils': 0.33.0
+      lexical: 0.33.0
       prismjs: 1.30.0
 
   '@lexical/devtools-core@0.31.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
@@ -11774,6 +11850,12 @@ snapshots:
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
 
+  '@lexical/html@0.33.0':
+    dependencies:
+      '@lexical/selection': 0.33.0
+      '@lexical/utils': 0.33.0
+      lexical: 0.33.0
+
   '@lexical/link@0.31.0':
     dependencies:
       '@lexical/utils': 0.31.0
@@ -11784,6 +11866,12 @@ snapshots:
       '@lexical/selection': 0.31.0
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
+
+  '@lexical/list@0.33.0':
+    dependencies:
+      '@lexical/selection': 0.33.0
+      '@lexical/utils': 0.33.0
+      lexical: 0.33.0
 
   '@lexical/mark@0.31.0':
     dependencies:
@@ -11850,11 +11938,21 @@ snapshots:
     dependencies:
       lexical: 0.31.0
 
+  '@lexical/selection@0.33.0':
+    dependencies:
+      lexical: 0.33.0
+
   '@lexical/table@0.31.0':
     dependencies:
       '@lexical/clipboard': 0.31.0
       '@lexical/utils': 0.31.0
       lexical: 0.31.0
+
+  '@lexical/table@0.33.0':
+    dependencies:
+      '@lexical/clipboard': 0.33.0
+      '@lexical/utils': 0.33.0
+      lexical: 0.33.0
 
   '@lexical/text@0.31.0':
     dependencies:
@@ -11866,6 +11964,13 @@ snapshots:
       '@lexical/selection': 0.31.0
       '@lexical/table': 0.31.0
       lexical: 0.31.0
+
+  '@lexical/utils@0.33.0':
+    dependencies:
+      '@lexical/list': 0.33.0
+      '@lexical/selection': 0.33.0
+      '@lexical/table': 0.33.0
+      lexical: 0.33.0
 
   '@lexical/yjs@0.31.0(yjs@13.6.26)':
     dependencies:
@@ -15414,7 +15519,7 @@ snapshots:
     dependencies:
       '@aws-sdk/util-utf8-browser': 3.259.0
       '@httptoolkit/websocket-stream': 6.0.1
-      axios: 1.9.0
+      axios: 1.10.0
       buffer: 6.0.3
       crypto-js: 4.2.0
       mqtt: 4.3.8
@@ -15429,6 +15534,15 @@ snapshots:
   aws-ssl-profiles@1.1.2: {}
 
   axe-core@4.10.3: {}
+
+  axios@1.10.0:
+    dependencies:
+      follow-redirects: 1.15.9
+      form-data: 4.0.3
+      proxy-from-env: 1.1.0
+    transitivePeerDependencies:
+      - debug
+    optional: true
 
   axios@1.9.0:
     dependencies:
@@ -15966,6 +16080,11 @@ snapshots:
     dependencies:
       ms: 2.1.3
 
+  debug@4.4.1:
+    dependencies:
+      ms: 2.1.3
+    optional: true
+
   decamelize@1.2.0: {}
 
   decimal.js@10.5.0: {}
@@ -16043,6 +16162,9 @@ snapshots:
 
   detect-libc@2.0.3: {}
 
+  detect-libc@2.0.4:
+    optional: true
+
   detect-newline@4.0.1: {}
 
   detect-node-es@1.1.0: {}
@@ -16116,7 +16238,7 @@ snapshots:
 
   duplexify@3.7.1:
     dependencies:
-      end-of-stream: 1.4.4
+      end-of-stream: 1.4.5
       inherits: 2.0.4
       readable-stream: 2.3.8
       stream-shift: 1.0.3
@@ -16124,7 +16246,7 @@ snapshots:
 
   duplexify@4.1.3:
     dependencies:
-      end-of-stream: 1.4.4
+      end-of-stream: 1.4.5
       inherits: 2.0.4
       readable-stream: 3.6.2
       stream-shift: 1.0.3
@@ -16153,6 +16275,11 @@ snapshots:
   end-of-stream@1.4.4:
     dependencies:
       once: 1.4.0
+
+  end-of-stream@1.4.5:
+    dependencies:
+      once: 1.4.0
+    optional: true
 
   enhanced-resolve@5.18.1:
     dependencies:
@@ -16863,6 +16990,15 @@ snapshots:
       es-set-tostringtag: 2.1.0
       mime-types: 2.1.35
 
+  form-data@4.0.3:
+    dependencies:
+      asynckit: 0.4.0
+      combined-stream: 1.0.8
+      es-set-tostringtag: 2.1.0
+      hasown: 2.0.2
+      mime-types: 2.1.35
+    optional: true
+
   formdata-polyfill@4.0.10:
     dependencies:
       fetch-blob: 3.2.0
@@ -17508,9 +17644,9 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  isomorphic-ws@4.0.1(ws@8.18.1):
+  isomorphic-ws@4.0.1(ws@8.18.3):
     dependencies:
-      ws: 8.18.1
+      ws: 8.18.3
     optional: true
 
   isomorphic.js@0.2.5: {}
@@ -17735,7 +17871,9 @@ snapshots:
 
   lexical@0.31.0: {}
 
-  lib0@0.2.104:
+  lexical@0.33.0: {}
+
+  lib0@0.2.109:
     dependencies:
       isomorphic.js: 0.2.5
 
@@ -17773,7 +17911,7 @@ snapshots:
 
   lightningcss@1.29.2:
     dependencies:
-      detect-libc: 2.0.3
+      detect-libc: 2.0.4
     optionalDependencies:
       lightningcss-darwin-arm64: 1.29.2
       lightningcss-darwin-x64: 1.29.2
@@ -18151,7 +18289,7 @@ snapshots:
   mqtt-packet@6.10.0:
     dependencies:
       bl: 4.1.0
-      debug: 4.4.0
+      debug: 4.4.1
       process-nextick-args: 2.0.1
     transitivePeerDependencies:
       - supports-color
@@ -18161,7 +18299,7 @@ snapshots:
     dependencies:
       commist: 1.1.0
       concat-stream: 2.0.0
-      debug: 4.4.0
+      debug: 4.4.1
       duplexify: 4.1.3
       help-me: 3.0.0
       inherits: 2.0.4
@@ -18169,7 +18307,7 @@ snapshots:
       minimist: 1.2.8
       mqtt-packet: 6.10.0
       number-allocator: 1.0.14
-      pump: 3.0.2
+      pump: 3.0.3
       readable-stream: 3.6.2
       reinterval: 1.1.0
       rfdc: 1.4.1
@@ -18391,7 +18529,7 @@ snapshots:
 
   number-allocator@1.0.14:
     dependencies:
-      debug: 4.4.0
+      debug: 4.4.1
       js-sdsl: 4.3.0
     transitivePeerDependencies:
       - supports-color
@@ -18935,6 +19073,12 @@ snapshots:
     dependencies:
       end-of-stream: 1.4.4
       once: 1.4.0
+
+  pump@3.0.3:
+    dependencies:
+      end-of-stream: 1.4.5
+      once: 1.4.0
+    optional: true
 
   punycode.js@2.3.1: {}
 
@@ -20722,6 +20866,9 @@ snapshots:
 
   ws@8.18.1: {}
 
+  ws@8.18.3:
+    optional: true
+
   xlsx@0.18.5:
     dependencies:
       adler-32: 1.3.1
@@ -20811,7 +20958,7 @@ snapshots:
 
   yjs@13.6.26:
     dependencies:
-      lib0: 0.2.104
+      lib0: 0.2.109
 
   yn@3.1.1: {}
 
